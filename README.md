@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/24774070/README.md)
 ## IoT Sensor Data Pipeline and Real-Time Dashboard using AWS IoT Core and AWS Lambda
 
 ### Description
