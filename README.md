@@ -65,6 +65,9 @@ This project demonstrates a complete IoT data ingestion and visualization pipeli
      WHERE $__timeFilter(time)
      ```
    - Panels for: CO, NO2, Temperature, Humidity, etc.
+   - Grafana panel screenshot: 
+   <img width="1600" height="785" alt="image" src="https://github.com/user-attachments/assets/661b0f75-a085-415b-be61-2ff464268752" />
+
 
 8. **Publisher Script**
    - Publishes lines from `AirQualityUCI.csv` over MQTT.
